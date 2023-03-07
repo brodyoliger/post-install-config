@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This example outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 
@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/caQCinQ.png" height="80%" width="80%" alt="osticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After configuring the main Administrator account I then made accounts to simulate Help Desk workers and configured each account with their own .
 </p>
 <br />
 
