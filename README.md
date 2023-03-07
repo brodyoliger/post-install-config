@@ -19,11 +19,8 @@ This example outlines the post-install configuration of the open-source help des
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create and configure end-user and worker accounts to allow for creation and resolution of tickets
+- Create SLA Plans to establish ticket attributes upon creation and assignment
 
 <h2>Configuration Steps</h2>
 
@@ -47,6 +44,6 @@ Created an end-user account to allow for creation of ticket by an end-user.
 <img src="https://i.imgur.com/4JVegfh.png" height="80%" width="80%" alt="osticket"/>
 </p>
 <p>
-Finally, configured SLA Plans based on common SLAs to allow for severity and timeframe of completion of each ticket to be established.
+Finally, I configured SLA Plans based on common SLAs to allow for severity and timeframe of completion of each ticket to be established.
 </p>
 <br />
