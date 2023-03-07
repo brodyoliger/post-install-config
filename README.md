@@ -39,7 +39,7 @@ After configuring the main Administrator account I then made accounts to simulat
 <img src="https://i.imgur.com/UIBNfv9.png" height="80%" width="80%" alt="osticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created an end-user account to allow for creation of ticket by an end-user.
 </p>
 <br />
 
@@ -47,6 +47,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/4JVegfh.png" height="80%" width="80%" alt="osticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally, configured SLA Plans based on common SLAs to allow for severity and timeframe of completion of each ticket to be established.
 </p>
 <br />
