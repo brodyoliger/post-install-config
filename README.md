@@ -31,7 +31,7 @@ This example outlines the post-install configuration of the open-source help des
 <img src="https://i.imgur.com/caQCinQ.png" height="80%" width="80%" alt="osticket"/>
 </p>
 <p>
-After configuring the main Administrator account I then made accounts to simulate Help Desk workers and configured each account with their own .
+After configuring the main Administrator account I then made accounts to simulate Help Desk workers and configured each account with their own access, permissions and teams.
 </p>
 <br />
 
